@@ -1,6 +1,3 @@
-# johnjaruedabe-a11y.github.io
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
